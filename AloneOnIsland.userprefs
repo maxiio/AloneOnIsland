@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InventarScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\playerController.cs" Line="252" Column="39" />
+      <File FileName="Assets\Scripts\SearchableScript.cs" Line="10" Column="34" />
+      <File FileName="Assets\Scripts\DragHandler.cs" Line="43" Column="4" />
+      <File FileName="Assets\Scripts\CraftingScript.cs" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\SlotScript.cs" Line="61" Column="3" />
+      <File FileName="Assets\Scripts\InventarScript.cs" Line="99" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
