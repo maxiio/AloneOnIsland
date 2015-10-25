@@ -17,8 +17,7 @@ You have to survival as long as you can. In 100 day you will be founded but you 
 There is no one on the island and you have to find stuff and craft items to make a living on your own.
 
 ## Island details
-// SCREENSHOT HERE 
-// SKIZZE
+![Island topview](/Screenshots/img3.png "Island topview")
 
 + Terrain: 2000x2000
 + 1x sea
